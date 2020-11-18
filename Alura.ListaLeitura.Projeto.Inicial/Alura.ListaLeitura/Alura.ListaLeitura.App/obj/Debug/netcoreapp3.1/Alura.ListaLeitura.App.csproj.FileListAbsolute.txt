@@ -1,0 +1,13 @@
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.exe
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.deps.json
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.runtimeconfig.json
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.runtimeconfig.dev.json
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.dll
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp3.1\Alura.ListaLeitura.App.pdb
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.csprojAssemblyReference.cache
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.AssemblyInfo.cs
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.dll
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.pdb
+C:\ProjetosCSharp\Alura.ListaLeitura.Projeto.Inicial\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp3.1\Alura.ListaLeitura.App.genruntimeconfig.cache

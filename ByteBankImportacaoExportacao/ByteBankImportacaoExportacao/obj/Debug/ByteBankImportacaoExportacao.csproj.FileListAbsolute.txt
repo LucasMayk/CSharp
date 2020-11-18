@@ -1,0 +1,7 @@
+C:\Users\Programador\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\Programador\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Programador\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Programador\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\Programador\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\Programador\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Programador\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
